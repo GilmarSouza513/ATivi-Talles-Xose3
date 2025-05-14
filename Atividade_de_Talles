@@ -1,0 +1,27 @@
+//Ativida sobre livro= titulo e autor
+const book = {
+title: "A Divina Comédia",
+author: "Dante Alighieri"
+};
+console.log(book)
+
+//Atividades do slaide 'indroducao_programacao_nod_ejs_final.pptx'
+//Do grupo 'ADS' pediodo 1°, grupo do zap 'Lógica Aplicada'
+
+//Desafio 1° - String
+
+let name = "José Gilmar Araujo de Souza";
+let greeting = "Olá, ";
+console.log(name + greeting)
+
+//Desafio 2° - Number
+
+let number_one = 666, number_twe = 999
+let sum = number_one + number_twe
+
+console.log("O resultado da soma é: " + sum);
+
+//Desafio 3° - Boolean
+
+let approved = true;
+console.log("Aluno t ador? " + aprovado);
