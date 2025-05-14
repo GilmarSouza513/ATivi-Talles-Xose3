@@ -1,0 +1,6 @@
+//Ativida sobre livro= titulo e autor
+const book = {
+title: "A Divina Comédia",
+author: "Dante Alighieri"
+};
+console.log(book)
